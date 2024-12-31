@@ -1,0 +1,21 @@
+# Table of contents
+
+format: jb-book
+root: README
+parts:
+  - caption: Natural Intelligence
+    chapters:
+    - file: natural-intelligence/intelligence
+  
+  - caption: Mathematics
+    chapters:
+    - file: mathematics/linear-algebra/README
+  
+  - caption: Problem Solving
+    chapters:
+    - file: problem-solving/search/README
+
+  - caption: Machine Learning
+    chapters:
+    - file: machine-learning/neural-networks/README
+    
